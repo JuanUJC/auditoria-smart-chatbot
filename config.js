@@ -1,11 +1,11 @@
-module.exports = {
+module.exportsmodule.exports = {
   //Google project credentials
-  GOOGLE_PROJECT_ID: "auditorbot-ftjebe",
+  GOOGLE_PROJECT_ID: "logisticabot-ftjebe",
   DF_LANGUAGE_CODE: "es",
   GOOGLE_CLIENT_EMAIL:
-    "dialogflow-blhoaw@auditorbot-ftjebe.iam.gserviceaccount.com",
+    " logisticabot@logisticapnptransportes-mmuw.iam.gserviceaccount.com",
   GOOGLE_PRIVATE_KEY:
-    "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWD0i0snQ+8HXm\nEjdBvH5MgIYtHb7xsjb6A/fhcKdCQx1+whgopUUL9VOgUgoLydNub9qYlzCEMzb+\nhvSydKEluAJb7Ol56O7pYGRlGXu8x7zP4s5QMlFS0wF9pJFTJD/9AJdv0eBjlWRg\nTj4/ZSh4iRQN3s5kPjLLJ8uqzbScnM3QIFVoKurjRJmwSh/BnnVl+6D86KuixOH9\n46fvEKhQnsh6KSTjQFZNoH3SaKcYC7a/mUl5Z5KN0PekCbwzyFUuCmlI+ZZdZzze\n302MHqHCoIZ3JBOqWNWFx/saw9cTaNgIzQMfqcbZg6xn1t/tQd52LmrEi3XRV1KU\n6gQLBmSZAgMBAAECggEADbSWqOS8DkjErX9Da1S0DZIXIl7BoyFqUqDZjoGAahWa\nlFdVtCMOikTDxXRIwgJGHKOVsD/uAl0Lhekjx0ebG+IeQQqDc1fnHj41Q5cCWkZW\nt38ysott9wxNNtsFgbXHxfiJKRre2jZf63xDkWNQjdwpqAl0cB5oLqFTWww2FbAI\nbuxmYcOerjpEkthzdRC0fUZD7wb2UzFAD2NA2Wfv3TmBlHZYgzEfwwrEplIN2IXr\nmX5KJxHITqP2LOYEGwqhy9eHkPMuUFvZuI53UEcGO2KH91W1CnmQemsiHwR/BV/f\nZA37Pz0xbN+/EPbioGRz/k8XfBtZMJYyCbYRnopaMwKBgQDIsjiMeulwvH472r1y\nI/8kpokGmSp/mHXarO1hJxq4a0S22Gf9sygnGFykAD0cJymOupZxipv7L5EwvtbQ\nkuMcAzwKqDF9ccoWloqcC1QIaJifOhyqs6ozP9iqZMj17PK1nGbCqMb2zoDvRykQ\nKDMOZ9VxoZpJ3aDu5syw0hW/VwKBgQC/aP9BjHC/U+BmVOwCX7MEPocnLg0kW1BA\n+JJTHx+p1YL4+iOU8Xz82XgyGaHJWZC3I8vhLUUoYfZ4i4FFtrxX7XDN7yhH/Ep2\nK3IK3tizDiKiwA5TpOvURlG6eJ1oNeAjTr2W6WSWQn/42WlTniTCBWEuRbLd1Wpy\nyj0oDSi1jwKBgQCzg5ZJMXe0uyU+bH2fpssFAWD3YfE9iCWCn8MEb3HbGzevRQpf\nRuzXa1cR6pS+pdjqLcN7c7vphbacn1aN4ZT67Xm7Ho6F4k4cvjLlOMzFaKl7YwNZ\nPLM0fBtU7ilCr9q4z1irLUQqZrO1UzVLmmlwrTeiGCZlg7P7fL4COyfwqQKBgEUD\nyLWLu8NgrNJ44Dfi5ZssKHMaCacIPaGPfsL1v+bukzDOkDHN+LD6gHof/9OntaQz\nBfoE5qCu4b2JH21RfAuAE2JNTwrVjsuY0p/UxfGZsSdZdFD4cAez6xf/EVJXyp8w\nbu+Q67G5/IZvbai2pq5GXkne26Vco+sLvI1KYVlFAoGBALvZU0dgoAlz9PSo3ArE\nkjhEKpsWFtd1P1UEVpI9TMDINZu+I5Beeugkm0VQq5G68nNOaeEIeSEF5j0tBple\njlPcjKXei7elRAAoBSdbrfcYznJEhUNVM9swLrDToNJjSMzKaOxmyMKPG5sA4hRi\nLvxToaSwfJna4DSKMdOh/VF+\n-----END PRIVATE KEY-----\n",
+    "-----BEGIN PRIVATE KEY-----\e6f1853c3079e7fde4d18457831522526119f161-----END PRIVATE KEY-----\n",
   //TELEGRAM
-  TELEGRAMTOKEN: "1212097486:AAHga5176NNdsSMdDBu1IggCcs6tDD8Dhdg",
+  TELEGRAMTOKEN: "1817069015:AAGJ7k4WcBjb-Apwt9oDlvmAd6eE9c33Q7Q",
 };
